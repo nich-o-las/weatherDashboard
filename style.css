@@ -1,0 +1,30 @@
+body{
+    min-height: 100vh;
+}
+h1{
+    text-align: center;
+}
+#cityName{
+    width: 33.33%;
+    padding: .5em;
+    margin:  1em auto;;
+    display: block;
+}
+#submit-btn{
+    /* margin: auto; */
+
+}
+#cityList .btn{
+    margin: .5em;
+    padding: 1em;
+}
+#futureForecast{
+    width: 100%;
+}
+.futures{
+    padding: 1em;
+}
+.hoursDiv{
+    border-bottom: 1px solid black;
+}
+
