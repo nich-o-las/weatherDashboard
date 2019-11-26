@@ -1,13 +1,11 @@
 body{
     min-height: 100vh;
+    background: url('country-quilt-dark.png')
 }
-h1{
-    text-align: center;
-}
+
 #cityName{
     width: 33.33%;
     padding: .5em;
-    margin:  1em auto;;
     display: block;
 }
 #submit-btn{
