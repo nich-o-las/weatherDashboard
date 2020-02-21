@@ -1,6 +1,12 @@
 # Weather Dashboard
 
-### Built using HTML, CSS, and JavaScript/JQuery.
+![](./wdDemo.gif)
+
+## Tools used:
+1. HTML 
+2. CSS
+3. JavaScript/JQuery
+4. MomentJS
 
 ## User Story: 
 ### As a delicated and fair person who is sensitive to the elements, I would like to: 
@@ -8,4 +14,4 @@
 2. See both the current weather, and the future forecast.
 3. Easily select cities that I've searched in the past.
 
-#### Deployed App: https://nich-o-las.github.io/weatherDashboard/
+## View deployed app [HERE](https://nich-o-las.github.io/weatherDashboard/)
